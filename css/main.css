@@ -1,0 +1,37 @@
+div{
+	width:150px;
+	height: 150px;	
+	margin:10px;
+	background-color: green;
+}
+div>div{
+	margin:30px 0px 25px 25px;
+}
+.uno{
+	background-color: blue;
+}
+.tres{
+	background-color: yellow;
+}
+.cuatro{
+	background-color: red;
+}
+.cinco{
+	background-color: orange;
+}
+.seis{
+	background-color: pink;
+}
+.siete{
+	background-color: white;
+}
+.ocho{
+	background-color: brown;
+}
+#linea{
+	display: inline-block;
+}
+#contenedor{
+	width:570px;
+	height:200px;	
+}
